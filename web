@@ -1,10 +1,6 @@
-Player 1:<p id="score"></p>
+
 <div id="wrapper">  
   <canvas id="canvas" width="450" height="300"></canvas>
-</div> <br><br>
+  &nbsp&nbsp&nbsp<p id="score"></p><p id="score2"></p>
+</div>
 
-Player 2:
-<p id="score2"></p>
-<div id="wrapper">  
-  <canvas id="canvas2" width="450" height="300"></canvas>
-</div> 
